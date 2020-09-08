@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<name>Les via ferratas franæ ©ses - ViaFerrata-fr.net</name>
+		<Placemark>
+			<name>La Tête de Cheval</name>
+			<description><![CDATA[Aiguebelette / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=28">La Tête de Cheval </a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.80957,45.56638,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Via ferrata de Rouanne</name>
+			<description><![CDATA[Ancelle / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=182">Via ferrata de Rouanne</a> (3 parcours: PD / AD / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.205759,44.623407,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arvieux / 05 - Hautes-Alpes: 2 via ferratas</name>
+			<description><![CDATA[Arvieux / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=105">La via ferrata de Pra-Premier</a> (?)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=125">Les crêtes de Combe la Roche</a> (?)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.73333,44.7667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aussois - Avrieux - La Norma / 73 - Savoie</name>
+			<description><![CDATA[Aussois - Avrieux - La Norma / 73 - Savoie:
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=62">La Descente aux Enfers</a> (D)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=64">La Montée au Ciel </a> (D)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=63">La Montée au Purgatoire</a> (D)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=24">La Traversée des Anges</a> (2 parties : D)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=106">La via ferrata de l'Ecole Buissonnière</a> (AD)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=69">Le Chemin de la Vierge</a> (AD)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=107">Les Angelots</a> (F)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=65">Les Diablotins</a> (PD)
+			<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=132">Les Rois Mages</a> (TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.73599,45.20827,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avoriaz / 74 - Haute Savoie</name>
+			<description><![CDATA[Avoriaz / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=12"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.71667,46.1833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Bagnères de Bigorre / 65 - Hautes-Pyrénées:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=176"></a> ()]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>0.14019,42.9895,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beaufort / 73 - Savoie</name>
+			<description><![CDATA[Beaufort / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=22"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.575401, 45.71766,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bourdeau / 73 - Savoie</name>
+			<description><![CDATA[Bourdeau / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=144"></a> (AD+)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=145"></a> (PD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.84603,45.68999,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Briançon / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=8"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=146"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.64329,44.907,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Buis-les-Baronnies / 26 - Drôme:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=159"></a> (4 parcours: PD / D / D+ / ED facultatif)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.275870,44.276184,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bussang / 88 - Vosges</name>
+			<description><![CDATA[Bussang / 88 - Vosges:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=133"></a> (2 boucles (PD et AD))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.881117,47.888950,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Castillon-en-Couserans / 09 - Ariège:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=89"></a> (2 parties: D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>1.03333,42.9333,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Cauterets / 65 - Hautes-Pyrénées:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=141"></a> (3 parcours (AD et TD))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>	\n-0.116,42.8865,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cavaillon / 84 - Vaucluse</name>
+			<description><![CDATA[Cavaillon / 84 - Vaucluse:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=173"></a> (D / TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.038760,43.837301,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ceillac / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Ceillac / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=135"></a> (AD / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.7841,44.6623,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Céüze / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=67"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.95,44.5167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Chalancon / 26 - Drôme:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=121"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.35,44.5167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Chalmazel-Jensagnière / 42 - Loire:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=199"></a> (F)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.851072,45.702722,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chamonix / 74 - Haute Savoie</name>
+			<description><![CDATA[Chamonix / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=191"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.8692411,45.923079,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Chamrousse / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=81"></a> (AD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=3"></a> (PD / AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.875756,45.109584,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Charquemont / 25 - Doubs</name>
+			<description><![CDATA[Charquemont / 25 - Doubs:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=149"></a> (AD à D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.832466,47.215604,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Château-Queyras / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=104"></a> (F / PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.78333,44.75,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Châtel / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=169"></a> (Facile)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.841200,46.267386,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chisa / 20 - Corse</name>
+			<description><![CDATA[Chisa / 20 - Corse:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=82"></a> (D/D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>9.26667,41.9167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Clécy / 14 - Calvados:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=180"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>-0.481707,48.916776,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Collias / 30 - Gard</name>
+			<description><![CDATA[Collias / 30 - Gard:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=122"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>4.47281,43.9504,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Consolation / 25 - Doubs</name>
+			<description><![CDATA[Consolation / 25 - Doubs:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=134"></a> (3 parcours (F, D, TD))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.598535,47.150793,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Corps - Barrage du Sautet / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=150"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=83"></a> (2 parties : PD et AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.90489,44.8169,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Courchevel / 73 - Savoie</name>
+			<description><![CDATA[Courchevel / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=17"></a> (D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=77"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=186"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.633438,45.414903,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Digne-les-Bains / 04 - Alpes de Haute Provence</name>
+			<description><![CDATA[Digne-les-Bains / 04 - Alpes de Haute Provence:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=152"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.23,44.09,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Durfort-Village / 81 - Tarn</name>
+			<description><![CDATA[Durfort-Village / 81 - Tarn:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=194"></a> ()]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>2.066663,43.439433,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Faverges-Seythenex / 74 - Haute Savoie</name>
+			<description><![CDATA[Faverges-Seythenex / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=195"></a> (PD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.29963,45.726284,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Florac / 48 - Lozère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=163"></a> (de AD à ED)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.593873,44.324305,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Freissinières / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=7"></a> (2 parties : D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.53333,44.75,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Gedre - Gavarnie / 65 - Hautes-Pyrénées:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=151"></a> (AD+/D- (TD pour l'ambiance gazeuse))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>-0.007,42.727,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Gourette / 64 - Pyrénées-Atlantique:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=99"></a> (2 variantes:F - D - TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>-0.333333,42.9667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Grenoble / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=1"></a> (2 parties :AD/D - D/TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.71966,45.19468,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gruffy / 74 - Haute Savoie</name>
+			<description><![CDATA[Gruffy / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=103"></a> (F)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.05,45.7833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostiaz / 01 - Ain</name>
+			<description><![CDATA[Hostiaz / 01 - Ain:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=90"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.53333,45.9,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[L'Alpe d'Huez / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=2"></a> (AD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=52"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.08977,45.0834,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[L'Alpe du Grand Serre / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=102"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=142"></a> (2 parties (AD+ et D+))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.8679,45.0225,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[L'Argentière-la-Bessée / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=91"></a> (F)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=66"></a> (4 parcours de F à TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.56502,44.8095,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Brigue / 06 - Alpes-Maritimes</name>
+			<description><![CDATA[La Brigue / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=38"></a> (D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.61667,44.0667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[La Canourgue / 48 - Lozère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=164"></a> (AD/D+ (TD))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.214770,44.431493,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Chapelle d'Abondance / 74 - Haute Savoie</name>
+			<description><![CDATA[La Chapelle d'Abondance / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=95"></a> (3 tronçons:AD+ - TD - TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.788521,46.300457,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Clusaz / 74 - Haute Savoie</name>
+			<description><![CDATA[La Clusaz / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=13"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.4222,45.9056,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Colmiane / 06 - Alpes-Maritimes</name>
+			<description><![CDATA[La Colmiane / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=42"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.21725,44.0772,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Faurie / 05 - Hautes-Alpes</name>
+			<description><![CDATA[La Faurie / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=36"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.77306,44.55676,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Grave / 05 - Hautes-Alpes</name>
+			<description><![CDATA[La Grave / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=4"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.25414,45.0429,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Plagne / 73 - Savoie</name>
+			<description><![CDATA[La Plagne / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=189"></a> (AD+ à D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.706876,45.507731,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lantosque / 06 - Alpes-Maritimes</name>
+			<description><![CDATA[Lantosque / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=111"></a> (3 parties:F - AD - D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.31667,43.9667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lascelle / 15 - Cantal</name>
+			<description><![CDATA[Lascelle / 15 - Cantal:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=118"></a> (PD / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>2.58333,45.0167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Le Caire / 04 - Alpes de Haute Provence</name>
+			<description><![CDATA[Le Caire / 04 - Alpes de Haute Provence:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=197"></a> (Facile à Peu Difficile)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=43"></a> (AD à D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.071,44.3765,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Le Lauzet / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Le Lauzet / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=9"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.48314,45.0191,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Le Pertuis / 43 - Haute-Loire</name>
+			<description><![CDATA[Le Pertuis / 43 - Haute-Loire:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=119"></a> (2 parcours: F / PD - AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>4.047493,45.109008,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Le Tanet / 68 - Haut-Rhin</name>
+			<description><![CDATA[Le Tanet / 68 - Haut-Rhin:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=156"></a> ()]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.149353,48.058807,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les Aillons / 73 - Savoie</name>
+			<description><![CDATA[Les Aillons / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=23"></a> (3 parties :AD - F - D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.1,45.65,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les Orres / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Les Orres / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=46"></a> (TD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=53"></a> (AD/D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.55,44.5167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les Vigneaux / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Les Vigneaux / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=54"></a> (D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=49"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.53333,44.8167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Léaz / 01 - Ain:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=129"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.890688,46.120155,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liaucous / 12 - Aveyron</name>
+			<description><![CDATA[Liaucous / 12 - Aveyron:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=147"></a> (2 parcoursRouge (ED) et bleu (PD))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.19317,44.2032,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lignerolles / 03 - Allier</name>
+			<description><![CDATA[Lignerolles / 03 - Allier:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=130"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>2.5788,46.2761,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Llo / 66 - Pyrénées Orientales:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=34"></a> (2 variantes:AD ou D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>2.05,42.45,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Luc-en-Diois / 26 - Drôme:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=120"></a> (AD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.46081,44.603,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Lus la Croix-Haute / 26 - Drôme:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=115"></a> (AD / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.75243,44.67379,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Luz-St-Sauveur / 65 - Hautes-Pyrénées:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=74"></a> (D/D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>0,42.8667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Malzieu-Ville / 48 - Lozère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=165"></a> (3 parcours: Practice - PD/AD  D+/TD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.331882,44.855525,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Mende / 48 - Lozère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=157"></a> (2 parcours : AD et D (avec passages TD+))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.498524,44.518005,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meyronnes / 04 - Alpes de Haute Provence</name>
+			<description><![CDATA[Meyronnes / 04 - Alpes de Haute Provence:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=55"></a> (D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=58"></a> (D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=44"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=57"></a> (TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.8,44.4833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Méjannes le clap / 30 - Gard:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=137"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>4.3506,44.2218,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Millau / 12 - Aveyron</name>
+			<description><![CDATA[Millau / 12 - Aveyron:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=92"></a> (2 parcours: AD et D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.08333,44.1,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Mizoën / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=166"></a> (D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.143124,45.050322,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moltifao / 20 - Corse</name>
+			<description><![CDATA[Moltifao / 20 - Corse:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=37"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>9.11667,42.4667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montpellier le Vieux / 12 - Aveyron</name>
+			<description><![CDATA[Montpellier le Vieux / 12 - Aveyron:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=158"></a> (2 parcours (PD et TD-))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.202594,44.140483,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morez / 39 - Jura</name>
+			<description><![CDATA[Morez / 39 - Jura:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=126"></a> (AD / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.0223,46.5218,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nans-sous-Sainte-Anne / 25 - Doubs</name>
+			<description><![CDATA[Nans-sous-Sainte-Anne / 25 - Doubs:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=96"></a> (4 circuits: F / AD / D / ED)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6,46.9833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Orbeil / 63 - Puy-de-Dôme:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=72"></a> (AD ?)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.28333,45.5667,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ornans / 25 - Doubs</name>
+			<description><![CDATA[Ornans / 25 - Doubs:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=112"></a> (2 parcours possibles: AD et TD/ED)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.15,47.1,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Passy / 74 - Haute Savoie</name>
+			<description><![CDATA[Passy / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=140">Curalla</a> (AD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.695609,45.938687,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peille / 06 - Alpes-Maritimes</name>
+			<description><![CDATA[Peille / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=39"></a> (4 parcours : de D à TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.4,43.8,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peisey-Nancroix / 73 - Savoie</name>
+			<description><![CDATA[Peisey-Nancroix / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=60"></a> (3 tronçons:PD - AD - D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.80238,45.5185,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Péri / 20 - Corse:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=148"></a> (D à D+ (pour le parcours rouge))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>8.924503,42.005428,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plampinet / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Plampinet / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=47"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.661856,45.002968,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Planfoy / 42 - Loire</name>
+			<description><![CDATA[Planfoy / 42 - Loire:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=35"></a> (AD/D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=139"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>4.45,45.3833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pontamafrey-Montpascal / 73 - Savoie</name>
+			<description><![CDATA[Pontamafrey-Montpascal / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=31"></a> (D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=59"></a> (TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.36667,45.3333,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Prabouré - Saint-Anthème / 63 - Puy-de-Dôme:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=190"></a> ()]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.917601,45.526921,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pralognan-la-Vanoise / 73 - Savoie</name>
+			<description><![CDATA[Pralognan-la-Vanoise / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=20"></a> (D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.72782,45.37846,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Presles / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=188"></a> (3 parcours: PD, AD et ED++/ABO)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.3977846,45.070968,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Puget-Théniers / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=79"></a> (D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.9,43.95,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puy-St-Vincent / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Puy-St-Vincent / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=98"></a> (F)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=48"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.48333,44.8333,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roubion / 06 - Alpes-Maritimes</name>
+			<description><![CDATA[Roubion / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=138"></a> (F à AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.0553,44.0925,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Rousses / 48 - Lozère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=160"></a> (PD/F puis AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>03.587551,44.206020,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Antonin Noble Val / 82 - Tarn-et-Garonne</name>
+			<description><![CDATA[Saint-Antonin Noble Val / 82 - Tarn-et-Garonne:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=198"></a> ()]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>1.756771,44.152385,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Gervais Mont-Blanc / 74 - Haute Savoie</name>
+			<description><![CDATA[Saint-Gervais Mont-Blanc / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=196"></a> (2 parties: AD+ / D+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.712187,45.892012,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Jean-d'Aulps / 74 - Haute Savoie</name>
+			<description><![CDATA[Saint-Jean-d'Aulps / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=168"></a> (ED)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=167"></a> (D+)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=170"></a> (Facile)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.655675,46.234585,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Jean-Lachalm / 43 - Haute-Loire</name>
+			<description><![CDATA[Saint-Jean-Lachalm / 43 - Haute-Loire:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=153"></a> (3 parcours (vert : PD / rouge : PD / noir : AD))]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.719070,44.956490,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Saint-Paul-de-Fenouillet / 66 - Pyrénées Orientales:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=155"></a> (Assez diffile à Difficile)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=154"></a> (Facile)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>2.504196,42.812529,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Saint-Vincent-de-Mercuze / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=187"></a> (AD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.9521096,45.386389,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Serre-Chevalier / 05 - Hautes-Alpes</name>
+			<description><![CDATA[Serre-Chevalier / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=50"></a> (2 parcours:PD ou D)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=75"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=51"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.58333,44.9333,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Sixt-Fer-à-Cheval / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=71"></a> (AD / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.75874,46.05662,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Solenzara / 20 - Corse</name>
+			<description><![CDATA[Solenzara / 20 - Corse:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=109"></a> (PD-AD / TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>9.4,41.85,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[St-Bauzille-de-Putois / 34 - Hérault:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=101"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.73333,43.9,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[St-Christophe-en-Oisans / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=5"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.16576,44.96168,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Colomban-des-Villards / 73 - Savoie</name>
+			<description><![CDATA[St-Colomban-des-Villards / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=33"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.21029,45.27968,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Etienne-en-Devoluy / 05 - Hautes-Alpes</name>
+			<description><![CDATA[St-Etienne-en-Devoluy / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=45"></a> (AD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=73"></a> (D+)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=192"></a> (AD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.93333,44.7,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Jean-d'Arvey / 73 - Savoie</name>
+			<description><![CDATA[St-Jean-d'Arvey / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=193"></a> (AD+)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=32"></a> (2 parcours : AD+ - ED)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.994364,45.586059,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Julien-Mont-Denis / 73 - Savoie</name>
+			<description><![CDATA[St-Julien-Mont-Denis / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=30"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=56"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.4,45.2833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Martin d'Arc / 73 - Savoie</name>
+			<description><![CDATA[St-Martin d'Arc / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=29"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.46667,45.2167,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Martin de Belleville / 73 - Savoie</name>
+			<description><![CDATA[St-Martin de Belleville / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=93"></a> (AD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=94"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.504441,45.379899,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Pierre d'Entremont / 73 - Savoie</name>
+			<description><![CDATA[St-Pierre d'Entremont / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=108"></a> (2 parties:AD - TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>5.84858,45.42445,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[St-Sériès / 34 - Hérault:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=110"></a> (2 parcours:AD - TD/ED)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>4.1242,43.7367,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Ste Geneviève sur Argence / 12 - Aveyron:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=86"></a> (AD/D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>2.75,44.8,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tende / 06 - Alpes-Maritimes</name>
+			<description><![CDATA[Tende / 06 - Alpes-Maritimes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=41"></a> (2 parties:D et TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>7.6,44.0833,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Thônes / 74 - Haute Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=10"></a> (3 parties : D - D/D+ - TD/ED)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.32057,45.8902,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Thueyts / 07 - Ardèche:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=127"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>4.21993,44.67217,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tolla / 20 - Corse</name>
+			<description><![CDATA[Tolla / 20 - Corse:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=136"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>8.9596,41.9635,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ugine / 73 - Savoie</name>
+			<description><![CDATA[Ugine / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=76"></a> (PD)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=61"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.41667,45.75,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Val d'Isère / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=68"></a> (2 parties: PD/D - TD/ED)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=18"></a> (TD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.96276,45.46269,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Val-de-Sos / 09 - Ariège:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=143"></a> (3 parcours F / F à PD / AD à D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>1.500375,42.770591,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Valfréjus / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=179"></a> ()]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.6539,45.1735,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valloire / 73 - Savoie</name>
+			<description><![CDATA[Valloire / 73 - Savoie:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=26"></a> (TD/ED)<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=27"></a> (PD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.42306,45.16368,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Vaujany / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=177"></a> (1)PD - 2)AD/AD+)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.078840,45.158104,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Venosc - Les 2 Alpes / 38 - Isère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=6"></a> (D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.12222,44.9922,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Villar d'Arène / 05 - Hautes-Alpes:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=97"></a> (AD)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>6.34735,45.0376,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[Villefort / 48 - Lozère:<br/>- <a href="https://www.viaferrata-fr.net/via-ferrata.php?via=162"></a> (F / D)]]></description>
+			<visibility>1</visibility>
+			<Point>
+				<coordinates>3.932911,44.438570,1000</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
