@@ -1,36 +1,46 @@
 from os import path
-
 from pykml import parser
 from lxml import etree
-from lxml import html
 import requests
 from pykml.factory import KML_ElementMaker as KML
-from pykml.factory import GX_ElementMaker as GX
-from pykml.factory import nsmap
-from pykml.parser import Schema
+from lxml.html import fromstring
+
+HREF = "<a href="
+HREF_END = "\">"
+
+
+def count_page_urls(old_placemark):
+    description = old_placemark.description.text
+    return description.count(HREF)
 
 
 def get_page_url(old_placemark):
-    description = old_placemark.description
-    if "<a href=" in description:
-        return description[description.find("<a href=")+8:description.find("\">")]
+    description = old_placemark.description.text
+    if HREF in description:
+        return description[description.find(HREF) + len(HREF) + 1:description.find(HREF_END)]
     return None
 
 
 def generate_name(old_placemark):
+    if count_page_urls(old_placemark) > 1:
+        return "" + str(count_page_urls(old_placemark)) + " via ferratas"
+
     url = get_page_url(old_placemark)
     if url:
-        page = requests.get(url)
-        tree = html.fromstring(page.content)
-        title = tree.head.title
-        title_trimmed = title.replace("ViaFerrata-FR.net: ","")
-        return title_trimmed[:title_trimmed.find("/")]
+        headers = {'User-Agent': 'Mozilla/5'}
+        print(url)
+        r = requests.get(url, headers=headers)
+        tree = fromstring(r.content)
+        title = tree.findtext('.//title')
+        print(title)
+        title_trimmed = title.replace("ViaFerrata-FR.net: ", "")
+        return title_trimmed[:title_trimmed.find(" /")]
     else:
-        return old_placemark.name
+        return old_placemark.name.text
 
 
 def generate_description(old_placemark):
-    pass
+    return "dupa"
 
 
 def generate_placemark(old_placemark):
