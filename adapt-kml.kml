@@ -1,0 +1,1005 @@
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>French Via Ferratas</name>
+    <Placemark>
+      <name>La T&#234;te de Cheval</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=28"&gt;La T&#234;te de Cheval&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.80957,45.56638,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via ferrata de Rouanne</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=182"&gt;Via ferrata de Rouanne&lt;/a&gt; (3 parcours: PD / AD / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.205759,44.623407,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=105"&gt;La via ferrata de Pra-Premier&lt;/a&gt; (?)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=125"&gt;Les cr&#234;tes de Combe la Roche&lt;/a&gt; (?)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.73333,44.7667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=62"&gt;La Descente aux Enfers&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=64"&gt;La Mont&#233;e au Ciel&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=63"&gt;La Mont&#233;e au Purgatoire&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=24"&gt;La Travers&#233;e des Anges&lt;/a&gt; (2 parties : D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=106"&gt;La via ferrata de l'Ecole Buissonni&#232;re&lt;/a&gt; (AD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=69"&gt;Le Chemin de la Vierge&lt;/a&gt; (AD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=107"&gt;Les Angelots&lt;/a&gt; (F)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=65"&gt;Les Diablotins&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=132"&gt;Les Rois Mages&lt;/a&gt; (TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.73599,45.20827,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Saix du Tour</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=12"&gt;Le Saix du Tour&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.71667,46.1833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vertige de l'Adour</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=176"&gt;Vertige de l'Adour&lt;/a&gt; ()&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>0.14019,42.9895,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Roc du Vent</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=22"&gt;Le Roc du Vent&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.575401, 45.71766,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=144"&gt;Primev&#232;re &#224; Oreille d'Ours&lt;/a&gt; (AD+)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=145"&gt;Rocher de Cornillon&lt;/a&gt; (PD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.84603,45.68999,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=8"&gt;La Croix de Toulouse&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=146"&gt;La Schappe&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.64329,44.907,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rocher du Saint-Julien</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=159"&gt;Rocher du Saint-Julien&lt;/a&gt; (4 parcours: PD / D / D+ / ED facultatif)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.275870,44.276184,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rando-ferrata de la Source de la Moselle</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=133"&gt;Rando-ferrata de la Source de la Moselle&lt;/a&gt; (2 boucles (PD et AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.881117,47.888950,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata des Estagnous</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=89"&gt;La via ferrata des Estagnous&lt;/a&gt; (2 parties: D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>1.03333,42.9333,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Alias</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=141"&gt;Les Alias&lt;/a&gt; (3 parcours (AD et TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>	\n-0.116,42.8865,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colline Saint-Jacques</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=173"&gt;Colline Saint-Jacques&lt;/a&gt; (D / TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.038760,43.837301,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Clapi&#232;re</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=135"&gt;La Clapi&#232;re&lt;/a&gt; (AD / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.7841,44.6623,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mini via ferrata de C&#233;&#252;ze</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=67"&gt;Mini via ferrata de C&#233;&#252;ze&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.95,44.5167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le pas de l'Echelle</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=121"&gt;Le pas de l'Echelle&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.35,44.5167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le rocher de l'Olme</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=199"&gt;Le rocher de l'Olme&lt;/a&gt; (F)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.851072,45.702722,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via ferrata des Evettes</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=191"&gt;Via ferrata des Evettes&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.8692411,45.923079,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=81"&gt;La via ferrata des Lacs Roberts&lt;/a&gt; (AD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=3"&gt;Via ferrata des 3 Fontaines&lt;/a&gt; (PD / AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.875756,45.109584,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata des Echelles de la mort</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=149"&gt;La via ferrata des Echelles de la mort&lt;/a&gt; (AD &#258;&#160; D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.832466,47.215604,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de Fort Queyras</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=104"&gt;La via ferrata de Fort Queyras&lt;/a&gt; (F / PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.78333,44.75,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mini via-ferrata de Ch&#226;tel</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=169"&gt;Mini via-ferrata de Ch&#226;tel&lt;/a&gt; (Facile)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.841200,46.267386,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de Chisa</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=82"&gt;La via ferrata de Chisa&lt;/a&gt; (D/D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>9.26667,41.9167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les rochers de la Cambronnerie</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=180"&gt;Les rochers de la Cambronnerie&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>-0.481707,48.916776,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les gorges du Gardon</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=122"&gt;Les gorges du Gardon&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>4.47281,43.9504,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les 3 vias de Consolation</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=134"&gt;Les 3 vias de Consolation&lt;/a&gt; (3 parcours (F, D, TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.598535,47.150793,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=150"&gt;La via ferrata du Belv&#233;d&#232;re&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=83"&gt;Les Tunnels &amp; Le Grand Frisson&lt;/a&gt; (2 parties : PD et AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.90489,44.8169,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=17"&gt;La Croix des Verdons&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=77"&gt;Le Lac de la Rosi&#232;re&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=186"&gt;Le Panoramic&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.633438,45.414903,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Rocher de Neuf heures</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=152"&gt;Le Rocher de Neuf heures&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.23,44.09,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via ferrata de Malamort - Gorges de Sor</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=194"&gt;Via ferrata de Malamort - Gorges de Sor&lt;/a&gt; ()&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>2.066663,43.439433,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cord&#233;e des Dahuts</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=195"&gt;La Cord&#233;e des Dahuts&lt;/a&gt; (PD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.29963,45.726284,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via-ferrata du Rochefort</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=163"&gt;Via-ferrata du Rochefort&lt;/a&gt; (de AD &#258;&#160; ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.593873,44.324305,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Grande Falaise</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=7"&gt;La Grande Falaise&lt;/a&gt; (2 parties : D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.53333,44.75,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaos de Coum&#233;ly</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=151"&gt;Chaos de Coum&#233;ly&lt;/a&gt; (AD+/D- (TD pour l'ambiance gazeuse)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>-0.007,42.727,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de Siala</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=99"&gt;La via ferrata de Siala&lt;/a&gt; (2 variantes:F - D - TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>-0.333333,42.9667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Prises de la Bastille</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=1"&gt;Les Prises de la Bastille&lt;/a&gt; (2 parties :AD/D - D/TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.71966,45.19468,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via du Semnoz (ou du Maquis)</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=103"&gt;La via du Semnoz (ou du Maquis)&lt;/a&gt; (F)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.05,45.7833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Guinguette</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=90"&gt;La Guinguette&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.53333,45.9,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=2"&gt;Les Gorges de Sarenne&lt;/a&gt; (AD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=52"&gt;Pierre-Ronde&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.08977,45.0834,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=102"&gt;La via ferrata de la Cascade&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=142"&gt;La via ferrata du Grand Bec&lt;/a&gt; (2 parties (AD+ et D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.8679,45.0225,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=91"&gt;L'Horloge&lt;/a&gt; (F)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=66"&gt;Les Gorges de la Durance&lt;/a&gt; (4 parcours de F &#258;&#160; TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.56502,44.8095,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Ciappea</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=38"&gt;La Ciappea&lt;/a&gt; (D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.61667,44.0667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roqueprins</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=164"&gt;Roqueprins&lt;/a&gt; (AD/D+ (TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.214770,44.431493,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata des Saix de Miol&#232;ne</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=95"&gt;La via ferrata des Saix de Miol&#232;ne&lt;/a&gt; (3 tron&#258;&#167;ons:AD+ - TD - TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.788521,46.300457,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yves Pollet-Villard</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=13"&gt;Yves Pollet-Villard&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.4222,45.9056,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Baus de la Frema</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=42"&gt;Les Baus de la Frema&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.21725,44.0772,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Vires des Gorges d'Agnielles</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=36"&gt;Les Vires des Gorges d'Agnielles&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.77306,44.55676,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Mines du Grand Cl&#244;t</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=4"&gt;Les Mines du Grand Cl&#244;t&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.25414,45.0429,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La falaise des Bourtes</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=189"&gt;La falaise des Bourtes&lt;/a&gt; (AD+ &#258;&#160; D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.706876,45.507731,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Canyons de Lantosque</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=111"&gt;Les Canyons de Lantosque&lt;/a&gt; (3 parties:F - AD - D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.31667,43.9667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Lac des Graves</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=118"&gt;La via ferrata du Lac des Graves&lt;/a&gt; (PD / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>2.58333,45.0167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=197"&gt;La Ferrata Familia des Ammonites&lt;/a&gt; (Facile &#258;&#160; Peu Difficile)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=43"&gt;La Grande Fistoire&lt;/a&gt; (AD &#258;&#160; D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.071,44.3765,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'Aiguillette du Lauzet</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=9"&gt;L'Aiguillette du Lauzet&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.48314,45.0191,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Puy des Juscles</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=119"&gt;La via ferrata du Puy des Juscles&lt;/a&gt; (2 parcours: F / PD - AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>4.047493,45.109008,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via-ferrata du Tanet (projet d'ouverture &#233;t&#233; 2011 mais pas encore r&#233;alis&#233;)</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=156"&gt;Via-ferrata du Tanet (projet d'ouverture &#233;t&#233; 2011 mais pas encore r&#233;alis&#233;)&lt;/a&gt; ()&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.149353,48.058807,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'&#233;cole de Rossane</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=23"&gt;L'&#233;cole de Rossane&lt;/a&gt; (3 parties :AD - F - D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.1,45.65,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=46"&gt;La Cascade&lt;/a&gt; (TD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=53"&gt;Marcelinas&lt;/a&gt; (AD/D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.55,44.5167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=54"&gt;La Voie de la Balme&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=49"&gt;La Voie du Colombier&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.53333,44.8167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Fort l'Ecluse</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=129"&gt;La via ferrata du Fort l'Ecluse&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.890688,46.120155,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de Liaucous</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=147"&gt;La via ferrata de Liaucous&lt;/a&gt; (2 parcoursRouge (ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.19317,44.2032,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via Ferrata du haut des gorges du haut cher</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=130"&gt;La via Ferrata du haut des gorges du haut cher&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>2.5788,46.2761,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Escaldilles</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=34"&gt;Les Escaldilles&lt;/a&gt; (2 variantes:AD ou D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>2.05,42.45,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Claps</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=120"&gt;Le Claps&lt;/a&gt; (AD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.46081,44.603,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Berche</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=115"&gt;La Berche&lt;/a&gt; (AD / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.75243,44.67379,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pont Napol&#233;on</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=74"&gt;Pont Napol&#233;on&lt;/a&gt; (D/D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>0,42.8667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via-ferrata de Malzieu-Ville</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=165"&gt;Via-ferrata de Malzieu-Ville&lt;/a&gt; (3 parcours: Practice - PD/AD &#194;&#8211; D+/TD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.331882,44.855525,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mende Coeur de Loz&#232;re - Le Rocher de Mo&#239;se</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=157"&gt;Mende Coeur de Loz&#232;re - Le Rocher de Mo&#239;se&lt;/a&gt; (2 parcours : AD et D (avec passages TD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.498524,44.518005,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=55"&gt;L'aiguille de Luce&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=58"&gt;L'aiguille du Coq&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=44"&gt;L'Ourson&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=57"&gt;La Tour d'Ao&#251;t&lt;/a&gt; (TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.8,44.4833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rocher de l'Aigle</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=137"&gt;Rocher de l'Aigle&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>4.3506,44.2218,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Boffi</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=92"&gt;La via ferrata du Boffi&lt;/a&gt; (2 parcours: AD et D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.08333,44.1,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le voile de la mari&#233;e (cascade de la Pisse)</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=166"&gt;Le voile de la mari&#233;e (cascade de la Pisse)&lt;/a&gt; (D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.143124,45.050322,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata Dia Manicella</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=37"&gt;La via ferrata Dia Manicella&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>9.11667,42.4667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaos de Montpellier-le-Vieux</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=158"&gt;Chaos de Montpellier-le-Vieux&lt;/a&gt; (2 parcours (PD et TD-)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.202594,44.140483,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de la Roche au Dade</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=126"&gt;La via ferrata de la Roche au Dade&lt;/a&gt; (AD / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.0223,46.5218,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Baumes du Verneau</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=96"&gt;Les Baumes du Verneau&lt;/a&gt; (4 circuits: F / AD / D / ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6,46.9833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata d'Orbeil</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=72"&gt;La via ferrata d'Orbeil&lt;/a&gt; (AD ?)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.28333,45.5667,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de la Roche du Mont</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=112"&gt;La via ferrata de la Roche du Mont&lt;/a&gt; (2 parcours possibles: AD et TD/ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.15,47.1,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Curalla</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=140"&gt;Curalla&lt;/a&gt; (AD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.695609,45.938687,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'Escale</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=39"&gt;L'Escale&lt;/a&gt; (4 parcours : de D &#258;&#160; TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.4,43.8,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Betti&#232;res</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=60"&gt;Les Betti&#232;res&lt;/a&gt; (3 tron&#258;&#167;ons:PD - AD - D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.80238,45.5185,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de P&#233;ri</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=148"&gt;La via ferrata de P&#233;ri&lt;/a&gt; (D &#258;&#160; D+ (pour le parcours rouge)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>8.924503,42.005428,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Pointe de Charra</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=47"&gt;La Pointe de Charra&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.661856,45.002968,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=35"&gt;La via ferrata de Planfoy&lt;/a&gt; (AD/D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=139"&gt;Les Pillots&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>4.45,45.3833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=31"&gt;La Passerelle&lt;/a&gt; (D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=59"&gt;Le Bastion&lt;/a&gt; (TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.36667,45.3333,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rando-ferrata des Rochers du Ronzier</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=190"&gt;Rando-ferrata des Rochers du Ronzier&lt;/a&gt; ()&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.917601,45.526921,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cascade de la Fra&#238;che</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=20"&gt;La Cascade de la Fra&#238;che&lt;/a&gt; (D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.72782,45.37846,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>POISSON D'AVRIL: La via ferrata des Grottes de Choranche</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=188"&gt;POISSON D'AVRIL: La via ferrata des Grottes de Choranche&lt;/a&gt; (3 parcours: PD, AD et ED++/ABO)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.3977846,45.070968,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Demoiselles du Castagnet</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=79"&gt;Les Demoiselles du Castagnet&lt;/a&gt; (D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.9,43.95,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=98"&gt;Le sentier de la Combe&lt;/a&gt; (F)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=48"&gt;Le Tournoux&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.48333,44.8333,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balma Negra</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=138"&gt;Balma Negra&lt;/a&gt; (F &#258;&#160; AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.0553,44.0925,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via-ferrata du Tapoul</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=160"&gt;Via-ferrata du Tapoul&lt;/a&gt; (PD/F puis AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>03.587551,44.206020,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Roc d'Anglars</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=198"&gt;Le Roc d'Anglars&lt;/a&gt; ()&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>1.756771,44.152385,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via ferrata du Parc Thermal</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=196"&gt;Via ferrata du Parc Thermal&lt;/a&gt; (2 parties: AD+ / D+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.712187,45.892012,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=168"&gt;L'oeil de l'&#233;l&#233;phant&lt;/a&gt; (ED)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=167"&gt;La T&#234;te de l&#146;&#233;l&#233;phant&lt;/a&gt; (D+)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=170"&gt;Mini via-ferrata de Saint-Jean-d'Aulps&lt;/a&gt; (Facile)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.655675,46.234585,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Rochers de la Miramande</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=153"&gt;Les Rochers de la Miramande&lt;/a&gt; (3 parcours (vert : PD / rouge : PD / noir : AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.719070,44.956490,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=155"&gt;La Panoramique&lt;/a&gt; (Assez diffile &#258;&#160; Difficile)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=154"&gt;La Pichona&lt;/a&gt; (Facile)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>2.504196,42.812529,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rocher de l'envers</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=187"&gt;Rocher de l'envers&lt;/a&gt; (AD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.9521096,45.386389,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=50"&gt;Le Rocher Blanc&lt;/a&gt; (2 parcours:PD ou D)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=75"&gt;Le Rocher de l'Yret (ou des Neyzets)&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=51"&gt;Le Rocher du Bez&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.58333,44.9333,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Mont</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=71"&gt;La via ferrata du Mont&lt;/a&gt; (AD / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.75874,46.05662,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata A Buccarona</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=109"&gt;La via ferrata A Buccarona&lt;/a&gt; (PD-AD / TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>9.4,41.85,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Thaurac</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=101"&gt;La via ferrata du Thaurac&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.73333,43.9,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de St-Christophe-en-Oisans</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=5"&gt;La via ferrata de St-Christophe-en-Oisans&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.16576,44.96168,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Chal</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=33"&gt;La Chal&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.21029,45.27968,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=45"&gt;La travers&#233;e des Beaumes&lt;/a&gt; (AD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=73"&gt;Vertigo&lt;/a&gt; (D+)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=192"&gt;Via Souterrata de la Tune&lt;/a&gt; (AD+)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.93333,44.7,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=193"&gt;La p'tchi&lt;/a&gt; (AD+)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=32"&gt;La via ferrata Jules Carret&lt;/a&gt; (2 parcours : AD+ - ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.994364,45.586059,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=30"&gt;Bonnant&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=56"&gt;La Croix des T&#234;tes&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.4,45.2833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le T&#233;l&#233;graphe</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=29"&gt;Le T&#233;l&#233;graphe&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.46667,45.2167,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=93"&gt;La via ferrata du Cochet&lt;/a&gt; (AD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=94"&gt;La via ferrata du Levassaix&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.504441,45.379899,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de Roche Veyrand</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=108"&gt;La via ferrata de Roche Veyrand&lt;/a&gt; (2 parties:AD - TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>5.84858,45.42445,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Vidourle</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=110"&gt;La via ferrata du Vidourle&lt;/a&gt; (2 parcours:AD - TD/ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>4.1242,43.7367,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du bois des Baltuergues</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=86"&gt;La via ferrata du bois des Baltuergues&lt;/a&gt; (AD/D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>2.75,44.8,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Comtes Lascaris</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=41"&gt;Les Comtes Lascaris&lt;/a&gt; (2 parties:D et TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>7.6,44.0833,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Roche &#224; l'Agathe</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=10"&gt;La Roche &#224; l'Agathe&lt;/a&gt; (3 parties : D - D/D+ - TD/ED)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.32057,45.8902,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata du Pont du Diable</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=127"&gt;La via ferrata du Pont du Diable&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>4.21993,44.67217,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata de Tolla</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=136"&gt;La via ferrata de Tolla&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>8.9596,41.9635,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=76"&gt;Le Golet de la Trouye&lt;/a&gt; (PD)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=61"&gt;Le Pas de l'Ours&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.41667,45.75,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=68"&gt;Le Roc de Tovi&#232;re&lt;/a&gt; (2 parties: PD/D - TD/ED)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=18"&gt;Les Plates de la Daille&lt;/a&gt; (TD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.96276,45.46269,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les via Ferrata du Vicdessos</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=143"&gt;Les via Ferrata du Vicdessos&lt;/a&gt; (3 parcours F / F &#258;&#160; PD / AD &#258;&#160; D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>1.500375,42.770591,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Grand Vallon</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=179"&gt;Le Grand Vallon&lt;/a&gt; ()&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.6539,45.1735,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 via ferratas</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=26"&gt;Le Rocher Saint-Pierre&lt;/a&gt; (TD/ED)&lt;br/&gt;&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=27"&gt;Poingt Ravier&lt;/a&gt; (PD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.42306,45.16368,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cascade de la Fare</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=177"&gt;Cascade de la Fare&lt;/a&gt; (1)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.078840,45.158104,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Perrons</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=6"&gt;Les Perrons&lt;/a&gt; (D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.12222,44.9922,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La via ferrata d'Arsine</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=97"&gt;La via ferrata d'Arsine&lt;/a&gt; (AD)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>6.34735,45.0376,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castanet</name>
+      <description>&lt;a href=https://www.viaferrata-fr.net/via-ferrata.php?via=162"&gt;Castanet&lt;/a&gt; (F / D)&lt;br/&gt;</description>
+      <visibility>1</visibility>
+      <Point>
+        <coordinates>3.932911,44.438570,1000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

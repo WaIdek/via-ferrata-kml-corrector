@@ -7,6 +7,8 @@ from lxml.html import fromstring
 
 HREF = "<a href="
 HREF_END = "\">"
+HREF_CLOSURE = "</a>"
+BR = '<br/>'
 
 
 def count_page_urls(old_placemark):
@@ -14,11 +16,26 @@ def count_page_urls(old_placemark):
     return description.count(HREF)
 
 
+def obtain_url_from_text(text):
+    if HREF in text:
+        return text[text.find(HREF) + len(HREF) + 1:text.find(HREF_END)]
+    return None
+
+
 def get_page_url(old_placemark):
     description = old_placemark.description.text
-    if HREF in description:
-        return description[description.find(HREF) + len(HREF) + 1:description.find(HREF_END)]
-    return None
+    return obtain_url_from_text(description)
+
+
+def obtain_name_from_url(url):
+    headers = {'User-Agent': 'Mozilla/5'}
+    print(url)
+    r = requests.get(url, headers=headers)
+    tree = fromstring(r.content)
+    title = tree.findtext('.//title')
+    print(title)
+    title_trimmed = title.replace("ViaFerrata-FR.net: ", "")
+    return title_trimmed[:title_trimmed.find(" /")]
 
 
 def generate_name(old_placemark):
@@ -27,20 +44,37 @@ def generate_name(old_placemark):
 
     url = get_page_url(old_placemark)
     if url:
-        headers = {'User-Agent': 'Mozilla/5'}
-        print(url)
-        r = requests.get(url, headers=headers)
-        tree = fromstring(r.content)
-        title = tree.findtext('.//title')
-        print(title)
-        title_trimmed = title.replace("ViaFerrata-FR.net: ", "")
-        return title_trimmed[:title_trimmed.find(" /")]
+        return obtain_name_from_url(url)
     else:
         return old_placemark.name.text
 
 
+def obtain_difficulty_from_description_line(description_line):
+    return description_line[description_line.find('(') + 1:description_line.find(')')]
+
+
 def generate_description(old_placemark):
-    return "dupa"
+    description = '' #"<![CDATA["
+
+    old_description_lines = old_placemark.description.text.split(BR)
+    first = True
+    for old_description_line in old_description_lines:
+        if first:
+            first = False
+            continue
+        url = obtain_url_from_text(old_description_line)
+        difficulty = obtain_difficulty_from_description_line(old_description_line)
+        if url:
+            description += HREF + url + HREF_END
+            name = obtain_name_from_url(url)
+            description += name + HREF_CLOSURE
+        else:
+            description += 'UNNAMED'
+
+        description += ' ' + '(' + difficulty + ')'
+        description += BR
+    # description += "]]>"
+    return description
 
 
 def generate_placemark(old_placemark):
